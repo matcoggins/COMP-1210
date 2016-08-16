@@ -1,0 +1,30 @@
+!1157;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SCU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+S+U0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SyU0PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!113;g
+%\011Customer.java
+%\011PreferredGoldCustomer.java
+%\011PreferredCustomer.java
+%\011PreferredSilverCustomer.java
+!113;f
+%\011Customer.java
+%\011PreferredGoldCustomer.java
+%\011PreferredCustomer.java
+%\011PreferredSilverCustomer.java
+!106;l
+%\011PreferredCustomerTest.java
+%\011PreferredGoldCustomerTest.java
+%\011PreferredSilverCustomerTest.java
+!852;t
+jgrJUnit0xr	%\011PreferredGoldCustomer.java	1447379882935:P%\011PreferredGoldCustomerTest.java	%\011PreferredCustomerTest.java	1447378794305:P%\011PreferredCustomer.java	%\011PreferredGoldCustomerTest.java	1447379882935:P%\011PreferredGoldCustomer.java	%\011PreferredSilverCustomerTest.java	1447379582395:P%\011PreferredSilverCustomer.java	%\011PreferredCustomer.java	1447378794305:P%\011PreferredCustomerTest.java	%\011PreferredSilverCustomer.java	1447379582395:P%\011PreferredSilverCustomerTest.java	
+jgrCheckstyle0xr	%\011PreferredGoldCustomer.java	1447380206029:P	%\011Customer.java	1447380221032:P	%\011PreferredCustomerTest.java	1447380215090:P	%\011PreferredGoldCustomerTest.java	1447380202508:P	%\011PreferredSilverCustomerTest.java	1447380208965:P	%\011PreferredCustomer.java	1447380217995:P	%\011PreferredSilverCustomer.java	1447380212025:P	
